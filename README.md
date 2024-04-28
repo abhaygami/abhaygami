@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/abhaygami">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaygami&theme=radical&border=7F3FBF&background=0D1117" alt="Abhay gami's GitHub streak"/>
+  </a>
+</p>
