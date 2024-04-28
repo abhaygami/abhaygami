@@ -16,14 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <a href="https://github.com/abhaygami">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaygami&theme=radical&border=7F3FBF&background=0D1117" alt="Abhay gami's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/vaibhavgabani">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhaygami&theme=radical" alt="Vaibhav Gabani's GitHub Contribution"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/abhaygamii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhaygami" height="30" width="40" /></a>
 </p>
